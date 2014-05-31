@@ -1,0 +1,25 @@
+
+		Resultados da Execucao
+
+
+	-> #q0aaa#
+	-> #aq1aa#
+	-> #aAq2a#
+	-> #at0AB#
+	-> #t0aAB#
+	-> t0#aAB#
+	-> #t1aAB#
+	-> #Bt2AB#
+	-> #BAt2B#
+	-> #BAat3#
+	-> #BAu0a#
+	-> #Bu0Aa#
+	-> #u0BAa#
+	-> #au1Aa#
+	-> #aaq1a#
+	-> #aaAq2#
+	-> #aaA#
+
+		 CADEIA ACEITA! 
+
+		 Tam Cad e QtdMov =  3	16 
